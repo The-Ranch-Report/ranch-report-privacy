@@ -40,6 +40,11 @@ We collect only the information necessary to make the App work. The categories o
 - **What:** Anonymous interactions with the App (e.g., which screens were viewed, crash reports).
 - **Why:** To understand how the App is used and to fix bugs.
 
+### g. Reports and Moderation Data
+- **What:** When you submit a report against another user's content, we collect your anonymous user ID, the identifier of the reported content, the reason you selected, and any optional details you provide.
+- **Why:** To review reports, take action on rule-violating content, and improve the safety of the community.
+- **Visibility:** Reports are visible only to us, not to other users.
+
 ---
 
 ## 2. How We Use Your Information
@@ -49,6 +54,7 @@ We use the information we collect to:
 - Provide and maintain the App's core features (map, ratings, reviews).
 - Display community ratings and reviews to other users.
 - Allow you to create, edit, and delete your own ratings.
+- Review reports and remove content that violates our community guidelines.
 - Diagnose and fix bugs, crashes, and performance issues.
 - Comply with legal obligations.
 
@@ -84,27 +90,40 @@ We may share your information only in these limited cases:
 
 ---
 
-## 5. Data Retention
+## 5. Content Moderation
 
-- **Local data:** Stays on your device until you uninstall the App.
-- **Community ratings:** Stored in our cloud database until you delete the rating or your account.
-- **Account data:** Stored as long as your account exists. You may request account deletion at any time (see Section 7).
+To keep the community safe, the App includes these moderation features:
+
+- **Profanity filter (text):** Reviews are automatically screened for slurs and other prohibited language before being saved. This screening happens entirely on your device.
+- **Sensitive image screening:** Photos you attach to a review are checked for sensitive content using Apple's on-device Sensitive Content Analysis framework. This screening happens entirely on your device — no photos or image data are sent to us or any third party during screening. If you have not enabled "Sensitive Content Warning" in iOS Settings, this screening is unavailable.
+- **Reports:** You can report any community rating, review, or photo for review. Reports are submitted to us for evaluation. See Section 1(g) for what we collect when you report.
+- **Blocking:** You can block any other user. Their content will be hidden from your view of the App on this device. Blocks are stored locally and are not shared with us or other users.
+- **Removal:** We reserve the right to remove any content and suspend or delete any account that violates our community guidelines.
 
 ---
 
-## 6. Children's Privacy
+## 6. Data Retention
+
+- **Local data:** Stays on your device until you uninstall the App.
+- **Community ratings:** Stored in our cloud database until you delete the rating or your account.
+- **Reports:** Retained for as long as needed to investigate and take action, then deleted.
+- **Account data:** Stored as long as your account exists. You may request account deletion at any time (see Section 8).
+
+---
+
+## 7. Children's Privacy
 
 The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with information, please contact us so we can delete it.
 
 ---
 
-## 7. Your Rights
+## 8. Your Rights
 
 Depending on where you live, you may have the following rights:
 
 - **Access:** Request a copy of the personal information we hold about you.
 - **Correction:** Correct inaccurate information.
-- **Deletion:** Request that we delete your account and associated data.
+- **Deletion:** Delete your account and all associated data from within the App at any time (Profile → Delete Account), or request deletion by emailing us.
 - **Portability:** Request your data in a portable format.
 - **Withdraw consent:** Disable location access in iOS Settings at any time.
 
@@ -114,19 +133,19 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) giv
 
 ---
 
-## 8. Security
+## 9. Security
 
 We use industry-standard security measures to protect your information, including encryption in transit (HTTPS) and at rest (Firebase's encryption). However, no method of internet transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
 
 ---
 
-## 9. International Users
+## 10. International Users
 
 The App is operated from the United States. If you use the App from outside the United States, your information may be transferred to, stored, and processed in the United States. By using the App, you consent to this transfer.
 
 ---
 
-## 10. Changes to This Policy
+## 11. Changes to This Policy
 
 We may update this Privacy Policy from time to time. When we do, we will update the "Last updated" date at the top of this page. Significant changes will be announced within the App.
 
@@ -134,7 +153,7 @@ Your continued use of the App after changes constitutes your acceptance of the u
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 If you have any questions, complaints, or requests, please contact us:
 
