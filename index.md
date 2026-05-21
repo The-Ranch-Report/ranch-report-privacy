@@ -26,6 +26,7 @@ We collect only the information necessary to make the App work. The categories o
 ### c. Account Information
 - **What:** A unique anonymous user identifier (UID) assigned by Firebase Authentication. If you choose to sign in with Apple, we may receive your name and email (or Apple's private relay email, depending on your choice).
 - **Why:** To associate your ratings with your account so you can edit or delete them.
+- **Account linking:** Anonymous accounts may be linked to Sign in with Apple at any time. When you link your accounts, your existing anonymous ratings and reviews are preserved under your new Apple-linked account.
 
 ### d. User-Generated Content
 - **What:** Your restaurant ratings (1–10 score), written reviews, ranch type selection, and any photos you attach.
