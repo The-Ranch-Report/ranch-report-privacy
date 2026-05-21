@@ -30,6 +30,17 @@ When you use the App:
 - You will not impersonate another person, business, or entity.
 - You will not share or transfer your account to anyone else.
 
+### Username Rules
+
+Usernames must:
+
+- Be 20 characters or fewer
+- Not contain profanity, slurs, hate speech, or other prohibited language
+- Not impersonate other users, businesses, public figures, or The Ranch Report itself
+- Not use names reserved for app administrators or support (e.g., "admin," "moderator," "support," "official")
+
+We may reset, change, or remove any username that violates these rules without notice.
+
 You may delete your account at any time from within the App (Profile → Delete Account).
 
 ---
